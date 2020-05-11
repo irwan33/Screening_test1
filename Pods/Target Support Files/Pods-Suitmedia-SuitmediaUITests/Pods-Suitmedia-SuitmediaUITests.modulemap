@@ -1,0 +1,6 @@
+framework module Pods_Suitmedia_SuitmediaUITests {
+  umbrella header "Pods-Suitmedia-SuitmediaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
